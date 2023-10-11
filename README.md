@@ -4,7 +4,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; self self-taught developer.
+- 🎓 &nbsp; self-taught developer.
 - 💼 &nbsp; Working as a developer in Regency Group qatar.
 - 🌱 &nbsp; Learning more about web development.
 

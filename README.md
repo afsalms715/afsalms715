@@ -1,11 +1,9 @@
 
-<h2> Hey there! I'm Afsal ms.</h2>
+<h2> Hey there! I'm Afsal MS.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; self-taught developer.
-- 💼 &nbsp; Working as a developer in Regency Group qatar.
 - 🌱 &nbsp; Learning more about web development.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -34,10 +32,6 @@
 
 <br/>
 
-<a href="https://github.com/afsalms715">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=afsalms715&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afsalms715&theme=buefy&layout=compact" />
-</a>
 
 <br/>
 
